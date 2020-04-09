@@ -1,0 +1,6 @@
+D:\Laboratory_pr\laba7_1\laba7_1\bin\Debug\laba7_1.exe.config
+D:\Laboratory_pr\laba7_1\laba7_1\bin\Debug\laba7_1.exe
+D:\Laboratory_pr\laba7_1\laba7_1\bin\Debug\laba7_1.pdb
+D:\Laboratory_pr\laba7_1\laba7_1\obj\Debug\laba7_1.exe
+D:\Laboratory_pr\laba7_1\laba7_1\obj\Debug\laba7_1.pdb
+D:\Laboratory_pr\laba7_1\laba7_1\obj\Debug\laba7_1.csprojResolveAssemblyReference.cache
